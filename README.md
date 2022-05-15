@@ -1,6 +1,7 @@
 # CHEM-5630
-Three Functions: 
-This set of code contains three functions. 
+The code is stored in a Jupyter notebook called "Final - Submission".
+
+Three Functions: This set of code contains three functions. 
 
 The first function extracts Equilibrium Geometry Coordinate data from .log files provided in CHEM 5630 and writes the data into a text file.
 
