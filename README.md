@@ -1,5 +1,5 @@
 # CHEM-5630
-The code is stored in a Jupyter notebook called " Motley Final".
+The code is stored in a Jupyter notebook called "Motley Final".
 
 The name of the project is Motley final because this set of code contains three unrelated functions. 
 
